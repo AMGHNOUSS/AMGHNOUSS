@@ -1,4 +1,4 @@
-## Hi there
+## Hi there 👋
 
 #### My name is REDOUANE AMGHNOUSS and I am a student. I would like to visit my repositories.
 
