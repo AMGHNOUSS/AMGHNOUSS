@@ -15,12 +15,13 @@
   <img align="center" alt="Red-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Red-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Red-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/AMGHNOUSS/AMGHNOUSS/blob/main/Avatar.png">
+  <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://github.com/AMGHNOUSS/AMGHNOUSS/blob/main/Avatar.png">
 </div>
 
   ##
   
   - 📫 How to reach me: 
+  
  
 <div> 
   <a href="https://www.instagram.com/amghnouss_redouane/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
