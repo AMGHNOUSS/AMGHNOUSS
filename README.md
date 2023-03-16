@@ -11,22 +11,21 @@
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=AMGHNOUSS">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AMGHNOUSS" />
 </a>
-
 #
-
+### Tools & Technologies
 <div style="display: inline_block"><br>
 
-  <img align="center" alt="Red-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Red-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Red-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Red-HTML" height="30" width="40" src="https://github.com/AMGHNOUSS/AMGHNOUSS/blob/main/icons/html5/html5-original.svg">
+  <img align="center" alt="Red-CSS" height="30" width="40" src="https://github.com/AMGHNOUSS/AMGHNOUSS/blob/main/icons/css3/css3-original.svg">
+  <img align="center" alt="Red-Js" height="30" width="40" src="https://github.com/AMGHNOUSS/AMGHNOUSS/blob/main/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Red-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Red-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Red-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://github.com/AMGHNOUSS/AMGHNOUSS/blob/main/Avatar.png">
+  <img align="center" alt="Red-C" height="30" width="40" src="https://github.com/AMGHNOUSS/AMGHNOUSS/blob/main/icons/c/c-original.svg">
+  <img align="center" alt="Red-Linux" height="30" width="40" src="https://github.com/AMGHNOUSS/AMGHNOUSS/blob/main/icons/linux/linux-original.svg">
+  <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://github.com/AMGHNOUSS/AMGHNOUSS/blob/main/icons/Avatar.png">
 </div>
 
-  ##
-  
+#
+### Social links
   - 📫 How to reach me: 
   
  
