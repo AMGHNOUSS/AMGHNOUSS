@@ -11,10 +11,10 @@
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=AMGHNOUSS">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AMGHNOUSS" />
 </a>
-#
-### Tools & Technologies
-<div style="display: inline_block"><br>
 
+<div style="display: inline_block"><br>
+### Tools & Technologies
+#
   <img align="center" alt="Red-HTML" height="30" width="40" src="https://github.com/AMGHNOUSS/AMGHNOUSS/blob/main/icons/html5/html5-original.svg">
   <img align="center" alt="Red-CSS" height="30" width="40" src="https://github.com/AMGHNOUSS/AMGHNOUSS/blob/main/icons/css3/css3-original.svg">
   <img align="center" alt="Red-Js" height="30" width="40" src="https://github.com/AMGHNOUSS/AMGHNOUSS/blob/main/icons/javascript/javascript-plain.svg">
