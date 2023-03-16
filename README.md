@@ -13,6 +13,13 @@
 <!--ENDS_HERE_QUOTE_README-->
 
 #
+
+### Github stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AMGHNOUSS&theme=default)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AMGHNOUSS&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AMGHNOUSS&theme=default)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AMGHNOUSS&theme=default&utcOffset=8)
+
+#
 ### Streak
 
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=AMGHNOUSS">
