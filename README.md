@@ -22,7 +22,11 @@
   <img align="center" alt="Red-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Red-C" height="30" width="40" src="https://github.com/AMGHNOUSS/AMGHNOUSS/blob/main/icons/c/c-original.svg">
   <img align="center" alt="Red-Linux" height="30" width="40" src="https://github.com/AMGHNOUSS/AMGHNOUSS/blob/main/icons/linux/linux-original.svg">
-  <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://github.com/AMGHNOUSS/AMGHNOUSS/blob/main/icons/Avatar.png">
+  <img align="center" alt="Red-Git" height="30" width="40" src="https://github.com/AMGHNOUSS/AMGHNOUSS/blob/main/icons/git/git-original.svg">
+  <img align="center" alt="Red-GitHub" height="30" width="40" src="https://github.com/AMGHNOUSS/AMGHNOUSS/blob/main/icons/github/github-original.svg">
+  <img align="center" alt="Red-MySQL" height="30" width="40" src="https://github.com/AMGHNOUSS/AMGHNOUSS/blob/main/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Red-VisualStudioCode" height="30" width="40" src="https://github.com/AMGHNOUSS/AMGHNOUSS/blob/main/icons/vscode/vscode-original.svg">
+  <img align="right" alt="Red-Congratulation" height="200" style="border-radius:50px;" src="https://github.com/AMGHNOUSS/AMGHNOUSS/blob/main/icons/Avatar.png">
 </div>
 
 #
