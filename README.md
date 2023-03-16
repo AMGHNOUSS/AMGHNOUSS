@@ -5,7 +5,14 @@
 - 🌱 I’m currently student in ALX Africa
 - 👯 I’m looking to collaborate with me on my repositories
 - 💬 Ask me about anythings in my repositories
+#
 
+### ⚡ Daily quote: 
+<!--STARTS_HERE_QUOTE_README-->
+<i>❝“Education is the passport to the future, for tomorrow belongs to those who prepare for it today.” —Malcolm X ❞</i>
+<!--ENDS_HERE_QUOTE_README-->
+
+#
 ### Streak
 
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=AMGHNOUSS">
