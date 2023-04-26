@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#### My name is REDOUANE AMGHNOUSS and I am a student. I would like to visit my repositories.
+#### My name is REDOUANE AMGHNOUSS and I am a student. I would like you to visit my repositories.
 
 - 🌱 I’m currently student in ALX Africa
 - 👯 I’m looking to collaborate with me on my repositories
