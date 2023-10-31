@@ -24,7 +24,6 @@
 #
 ### Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AMGHNOUSS)](https://git.io/streak-stats)
 
 #
 ### Tools & Technologies
