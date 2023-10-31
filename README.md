@@ -24,8 +24,8 @@
 #
 ### Streak
 
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=AMGHNOUSS">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AMGHNOUSS" />
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AMGHNOUSS" alt="GitHub Streak" />
 </a>
 
 #
