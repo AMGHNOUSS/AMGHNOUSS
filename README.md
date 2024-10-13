@@ -3,7 +3,7 @@
 #### My name is REDOUANE AMGHNOUSS and I am a student. I would like you to visit my repositories.
 
 - 🌱 I’m currently student in ALX Africa
-- 👯 I’m looking to collaborate with me on my repositories
+- 👯 I’m looking to collaborate with you on my repositories
 - 💬 Ask me about anythings in my repositories
 #
 
@@ -34,6 +34,7 @@
   <img align="center" alt="Red-Js" height="30" width="40" src="https://github.com/AMGHNOUSS/AMGHNOUSS/blob/main/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Red-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Red-C" height="30" width="40" src="https://github.com/AMGHNOUSS/AMGHNOUSS/blob/main/icons/c/c-original.svg">
+  <img align="center" alt="Red-PYTHON" height="30" width="40" src="https://github.com/AMGHNOUSS/AMGHNOUSS/blob/main/icons/html5/html5-original.svg">
   <img align="center" alt="Red-Linux" height="30" width="40" src="https://github.com/AMGHNOUSS/AMGHNOUSS/blob/main/icons/linux/linux-original.svg">
   <img align="center" alt="Red-Git" height="30" width="40" src="https://github.com/AMGHNOUSS/AMGHNOUSS/blob/main/icons/git/git-original.svg">
   <img align="center" alt="Red-GitHub" height="30" width="40" src="https://github.com/AMGHNOUSS/AMGHNOUSS/blob/main/icons/github/github-original.svg">
